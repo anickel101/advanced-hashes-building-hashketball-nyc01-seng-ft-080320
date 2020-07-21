@@ -26,7 +26,7 @@ def game_hash
           :blocks => 12,
           :slam_dunks => 7
         },
-        { :player_name => "Brook Lopez"
+        { :player_name => "Brook Lopez",
           :number => 11,
           :shoe => 17,
           :points => 17,
@@ -36,7 +36,7 @@ def game_hash
           :blocks => 1,
           :slam_dunks => 15
         },
-        { :player_name => "Mason Plumlee"
+        { :player_name => "Mason Plumlee",
           :number => 1,
           :shoe => 19,
           :points => 26,
@@ -46,7 +46,7 @@ def game_hash
           :blocks => 8,
           :slam_dunks => 5
         },
-        { :player_name => "Jason Terry" 
+        { :player_name => "Jason Terry", 
           :number => 31,
           :shoe => 15,
           :points => 19,
