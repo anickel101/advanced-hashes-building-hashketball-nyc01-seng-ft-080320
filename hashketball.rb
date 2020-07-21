@@ -62,7 +62,7 @@ def game_hash
       :team_name => "Charlotte Hornets", 
       :colors => ["Turquise", "Purple"],
       :players => [ 
-        { :player_name => "Alan Anderson",
+        { :player_name => "Jeff Adrien",
           :number => 0,
           :shoe => 16,
           :points => 22,
@@ -72,7 +72,7 @@ def game_hash
           :blocks => 1,
           :slam_dunks => 1
         },
-        { :player_name => "Reggie Evans",
+        { :player_name => "Bismack Biyombo",
           :number => 30,
           :shoe => 14,
           :points => 12,
@@ -82,7 +82,7 @@ def game_hash
           :blocks => 12,
           :slam_dunks => 7
         },
-        { :player_name => "Brook Lopez",
+        { :player_name => "DeSagna Diop",
           :number => 11,
           :shoe => 17,
           :points => 17,
@@ -92,7 +92,7 @@ def game_hash
           :blocks => 1,
           :slam_dunks => 15
         },
-        { :player_name => "Mason Plumlee",
+        { :player_name => "Ben Gordon",
           :number => 1,
           :shoe => 19,
           :points => 26,
@@ -102,7 +102,7 @@ def game_hash
           :blocks => 8,
           :slam_dunks => 5
         },
-        { :player_name => "Jason Terry", 
+        { :player_name => "Kemba Walker", 
           :number => 31,
           :shoe => 15,
           :points => 19,
@@ -116,3 +116,15 @@ def game_hash
     }
   }
 end
+
+|        Stat       |     Info          |         Info     |              Info |         Info     |         Info      |
+|:------------------:|:-----------------:|:-----------------:|:-----------------:|:---------------:|:-----------------:|
+| **Player Name**  | Jeff Adrien     | Bismack Biyombo    | DeSagna Diop      | Ben Gordon      | Kemba Walker   |
+| **Number**         | 4                 | 0                 | 2                 | 8               | 33                |
+| **Shoe**           | 18                | 16                | 14                | 15              | 15                |
+| **Points**         | 10                | 12                | 24                | 33              | 6                 |
+| **Rebounds**       | 1                 | 4                 | 12                | 3               | 12                |
+| **Assists**        | 1                 | 7                 | 12                | 2               | 12                |
+| **Steals**         | 2                 | 22                 | 4                 | 1               | 7                |
+| **Blocks**         | 7                 | 15                | 5                 | 1               | 5                 |
+| **Slam Dunks**     | 2                 | 10                | 5                 | 0               | 12                |
