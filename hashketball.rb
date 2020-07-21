@@ -14,7 +14,8 @@ def game_hash
           :assists => 12,
           :steals => 3,
           :blocks => 1,
-          :slam_dunks => 1},
+          :slam_dunks => 1
+        },
         "Reggie Evans" => {
           :number => 30,
           :shoe => 14,
@@ -24,7 +25,6 @@ def game_hash
           :steals => 12,
           :blocks => 12,
           :slam_dunks => 7
-          \\
         },
         "Brook Lopez" => {
           :number => 11,
