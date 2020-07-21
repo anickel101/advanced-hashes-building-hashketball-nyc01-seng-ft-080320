@@ -23,7 +23,9 @@ def game_hash
           :assists => 12,
           :steals => 12,
           :blocks => 12,
-          :slam_dunks => 7},
+          :slam_dunks => 7
+          \\
+        },
         "Brook Lopez" => {
           :number => 11,
           :shoe => 17,
@@ -32,7 +34,8 @@ def game_hash
           :assists => 10,
           :steals => 3,
           :blocks => 1,
-          :slam_dunks => 15},
+          :slam_dunks => 15
+        },
         "Mason Plumlee" => {
           :number => 1,
           :shoe => 19,
@@ -41,7 +44,8 @@ def game_hash
           :assists => 6,
           :steals => 3,
           :blocks => 8,
-          :slam_dunks => 5},
+          :slam_dunks => 5
+        },
         "Jason Terry" => {
           :number => 31,
           :shoe => 15,
@@ -50,7 +54,9 @@ def game_hash
           :assists => 2,
           :steals => 4,
           :blocks => 11,
-          :slam_dunks => 1}      
+          :slam_dunks => 1
+          
+        }      
       }]
     },
     :away => {
