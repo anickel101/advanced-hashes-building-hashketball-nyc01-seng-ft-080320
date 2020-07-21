@@ -22,7 +22,7 @@ def game_hash
           :steals => 3,
           :blocks => 1,
           :slam_dunks => 1}
-        {"Reggie Evans" => {
+        {"Brook Lopez" => {
           :number => 0,
           :shoe => 16,
           :points => 22,
@@ -31,7 +31,7 @@ def game_hash
           :steals => 3,
           :blocks => 1,
           :slam_dunks => 1}
-        {"Reggie Evans" => {
+        {"Mason Plumlee" => {
           :number => 0,
           :shoe => 16,
           :points => 22,
@@ -40,7 +40,7 @@ def game_hash
           :steals => 3,
           :blocks => 1,
           :slam_dunks => 1}
-        {"Reggie Evans" => {
+        {"Jason Terry" => {
           :number => 0,
           :shoe => 16,
           :points => 22,
